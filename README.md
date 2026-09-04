@@ -1,6 +1,6 @@
 ## Add Function
 
-The 'add(a, b)' function returns the sum of two values
+The 'add(a, b)' function returns the sum of two values.
 
 Example:
 'add(5, 3)' returns '8'.
