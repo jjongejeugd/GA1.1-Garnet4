@@ -19,4 +19,5 @@ We will multiply argument 'a' with argument 'b' but calling the multiply functio
 
 
 ## Distance From 0
+Call the subtract function using '%add subtract.ipynb'
 Subtract 0 from the given value. Return the absolute value of 0-X to return the distance from 0.
