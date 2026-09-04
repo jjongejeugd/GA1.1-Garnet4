@@ -16,3 +16,11 @@ Multiply Function
 This function is used to multiply two numbers together and return the product.
 This function will break when there are more than two inputs for the multiply function.
 We will multiply argument 'a' with argument 'b' but calling the multiply function and subsituting your number in for (a,b)
+
+## Square Function
+
+The 'square(x)' function returns the square of a value.
+It uses the existing 'multiply(a, b)' function by multiplying x itself.
+
+Example:
+'square(3)' returns '9'.
