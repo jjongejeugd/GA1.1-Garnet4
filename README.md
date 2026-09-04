@@ -1,4 +1,11 @@
+## Add Function
 
+The 'add(a, b)' function returns the sum of two values
+
+Example:
+'add(5, 3)' returns '8'.
+
+The function fails if the two values cannot be added together.
 
 subtract function:
 in the function you can put in two numbers a & b and the function will subtract b from a
