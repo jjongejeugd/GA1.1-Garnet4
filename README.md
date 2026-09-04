@@ -21,3 +21,10 @@ We will multiply argument 'a' with argument 'b' but calling the multiply functio
 ## Distance From 0
 Call the subtract function using '%add subtract.ipynb'
 Subtract 0 from the given value. Return the absolute value of 0-X to return the distance from 0.
+## Square Function
+
+The 'square(x)' function returns the square of a value.
+It uses the existing 'multiply(a, b)' function by multiplying x itself.
+
+Example:
+'square(3)' returns '9'.
