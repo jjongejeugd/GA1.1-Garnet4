@@ -17,6 +17,10 @@ This function is used to multiply two numbers together and return the product.
 This function will break when there are more than two inputs for the multiply function.
 We will multiply argument 'a' with argument 'b' but calling the multiply function and subsituting your number in for (a,b)
 
+
+## Distance From 0
+Call the subtract function using '%add subtract.ipynb'
+Subtract 0 from the given value. Return the absolute value of 0-X to return the distance from 0.
 ## Square Function
 
 The 'square(x)' function returns the square of a value.
